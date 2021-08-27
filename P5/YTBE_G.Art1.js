@@ -1,3 +1,4 @@
+//Copy & paste in P5.js editor. 
 //Let's set the var for the colors.
 let r = 1;
 let g = 1;
